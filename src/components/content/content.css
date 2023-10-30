@@ -1,0 +1,33 @@
+main .img-main .bgmain img {
+  width: 100%;
+  background-size: cover;
+}
+main .img-main .bgquater .bgquater-img {
+  width: 80%;
+  margin: 0 auto;
+}
+main .img-main .bgquater .bgquater-img img {
+  width: 100%;
+  text-align: center;
+  background-size: cover;
+}
+main .img-main .JJimg .JJimg-img {
+  width: 70%;
+  margin: 0 auto;
+}
+main .img-main .JJimg .JJimg-img img {
+  width: 100%;
+  text-align: center;
+  background-size: cover;
+}
+main .img-main .contents .ct-items {
+  width: 60%;
+  margin: 50px auto;
+  border-bottom: 5px solid lightgray;
+  border-top: 5px solid lightgray;
+}
+main .img-main .contents .ct-items img {
+  width: 100%;
+  text-align: center;
+  background-size: cover;
+}/*# sourceMappingURL=content.css.map */

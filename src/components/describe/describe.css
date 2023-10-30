@@ -1,0 +1,73 @@
+.describe {
+  margin-bottom: 30px;
+}
+.describe .describe-title h3 {
+  padding: 20px 0 20px 30px;
+  background-color: rgb(3, 49, 90);
+  color: white;
+}
+.describe .describe-title .describe-items {
+  display: flex;
+  margin-top: 30px;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.describe .describe-title .describe-items .describe-item {
+  text-align: center;
+}
+.describe .describe-title .describe-items .describe-item h4 {
+  font-size: 17px;
+  color: rgb(75, 121, 194);
+}
+.describe .describe-title .describe-items .describe-item p {
+  font-size: 12px;
+  margin: 5px 0;
+  color: rgb(135, 138, 144);
+}
+.describe .describe-title .amount {
+  display: flex;
+  justify-content: center;
+}
+.describe .describe-title .amount .polka {
+  height: 15px;
+  width: 15px;
+  margin: 20px 10px;
+  border-radius: 50%;
+  background-color: rgb(0, 35, 74);
+  border: 1px solid black;
+}
+.describe .describe-title .amount .polka:last-child {
+  background-color: white;
+}
+.describe .describe-img h3 {
+  padding: 20px 0 20px 30px;
+  background-color: rgb(3, 49, 90);
+  color: white;
+  margin-bottom: 40px;
+}
+.describe .describe-img .describe-new {
+  display: flex;
+  justify-content: space-evenly;
+}
+.describe .describe-img .describe-new .describe-articles {
+  text-align: center;
+}
+.describe .describe-img .describe-new .describe-articles img {
+  height: 200px;
+  background-size: cover;
+}
+.describe .describe-img .describe-new .describe-articles h4 {
+  font-size: 21px;
+  color: rgb(29, 28, 28);
+  margin-top: 10px;
+}
+.describe .describe-img .amount {
+  display: flex;
+  justify-content: center;
+}
+.describe .describe-img .amount .polka {
+  height: 12px;
+  width: 30px;
+  margin: 20px 10px;
+  background-color: rgb(48, 102, 217);
+}/*# sourceMappingURL=describe.css.map */

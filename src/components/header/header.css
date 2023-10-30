@@ -1,0 +1,31 @@
+header {
+  display: flex;
+  justify-content: space-between;
+}
+header .logo-header img {
+  height: 70px;
+}
+header .navbar-right {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 60%;
+}
+header .navbar-right .nav-items {
+  display: flex;
+  cursor: pointer;
+}
+header .navbar-right .nav-items .items {
+  font-size: 13px;
+  margin: 10px 15px;
+}
+header .navbar-right .nav-items .items:hover {
+  color: rgb(207, 58, 35);
+}
+header .navbar-right .icon-nav {
+  font-size: 30px;
+  cursor: pointer;
+}
+header .navbar-right .icon-nav:hover {
+  color: rgb(207, 58, 35);
+}/*# sourceMappingURL=header.css.map */
